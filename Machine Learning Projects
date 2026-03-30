@@ -1,0 +1,87 @@
+## 🔹 2025 (Ongoing)
+
+### Multivariate Hurdle Count Models with Stratified MCCV
+
+**Status:** Ongoing Research (PhD Dissertation Work)
+
+### Objective
+Develop and evaluate advanced multivariate count models for zero-inflated and zero-deflated data.
+
+### Methods
+- Developed a novel **Multivariate Generalized Poisson Hurdle Regression (MGPHR)** framework  
+- Compared with Multivariate Poisson Regression (MPR), Multivariate Generalized Poisson Regression (MGPR), and Multivariate Poisson Hurdle Regression (MPHR)  
+- Implemented **Stratified Monte Carlo Cross-Validation (MCCV)** for robust model evaluation  
+- Designed stratified sampling based on joint outcome structure and tail behavior  
+- Evaluated models using Negative Log-Likelihood (NLL), RMSE, and MAE  
+
+### Results (Key Insights)
+- MGPHR consistently outperformed competing models in predictive performance  
+- Improved modeling of excess zeros and dependence across outcomes  
+- Stratified MCCV provided more stable and reliable evaluation than standard random splitting  
+
+### Tools
+R (custom likelihood implementation, optimization, simulation)
+
+### Contribution
+- Proposed a new multivariate hurdle modeling framework  
+- Developed custom estimation and validation procedures  
+
+# Data Science & Machine Learning Projects
+
+This repository contains selected projects in data science, statistical modeling, and machine learning, organized by year.
+
+---
+
+## 🔹 2024
+
+### Machine Learning–Based Tumor Classification
+**Duration:** Jan 2024 – May 2024  
+**Affiliation:** Central Michigan University (STA 691)
+
+- Built and evaluated models: KNN, SVM, Random Forest, Gradient Boosting, LDA, QDA, Naive Bayes  
+- Used PCA-based feature selection (top 10–25 features)  
+- Applied SMOTE, under-sampling, and clustering for class imbalance  
+- Cross-validation using Accuracy and AUC  
+
+**Results:**  
+- KNN achieved near-perfect accuracy  
+- SVM, QDA, Random Forest ≈ 98% accuracy  
+
+**Tools:** R  
+
+---
+
+### Poverty Classification using Machine Learning
+**Duration:** Jun 2024 – Aug 2024  
+**Affiliation:** ICF International (Internship)
+
+- Developed Random Forest, Gradient Boosting, and SVM models  
+- Performed feature engineering and validation on survey data  
+- Applied models to large-scale food security datasets  
+
+**Results:**  
+- ~90% classification accuracy  
+
+**Tools:** R, Stata  
+
+---
+
+## 🔹 2023
+
+### Mass Shootings in the USA: Trends & Associated Factors
+**Duration:** Jan 2023 – May 2023  
+**Affiliation:** Central Michigan University (ITC 510)
+
+- Integrated multiple datasets (Kaggle, Census, VPC, IMDB)  
+- Conducted data cleaning, merging, and EDA  
+- Analyzed demographic, temporal, and socio-economic patterns  
+
+**Findings:**  
+- Identified increasing trends over time  
+- Associations with inequality, poverty, and demographic factors  
+
+**Tools:** Python  
+
+---
+
+## 🔹 More Projects Coming Soon
